@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="KRF.en-US.label.txt" tool-id="ERPLoc" product-name="n/a" product-version="n/a" build-num="n/a" request-id="50524" region="dflt">
+  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="KRF.en-US.label.txt" tool-id="ERPLoc" product-name="n/a" product-version="n/a" build-num="n/a" request-id="50529" region="dflt">
     <header>
       <tool tool-id="ERPLoc" tool-name="ERPLoc" tool-version="1.0.173.547" tool-company="Microsoft CoreXT" />
     </header>
@@ -4953,7 +4953,7 @@
         </trans-unit>
         <trans-unit id="@KRF1238" translate="yes" xml:space="preserve">
           <source>Sales order line information for K3 Fashion</source>
-          <target state="translated">Informações da linha de pedidos de vendas para K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">Informações da linha de pedidos de vendas para K3 Fashion</target>
         </trans-unit>
         <trans-unit id="@KRF1239" translate="yes" xml:space="preserve">
           <source>The KRFSalesLineExtended table contains sales order line information specific to K3 Fashion.</source>
@@ -5089,11 +5089,11 @@
         </trans-unit>
         <trans-unit id="@KRF1272" translate="yes" xml:space="preserve">
           <source>Sales quotation line information for K3 Fashion</source>
-          <target state="translated">Informações da linha de cotação de vendas para K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">Informações da linha de cotação de vendas para K3 Fashion</target>
         </trans-unit>
         <trans-unit id="@KRF1273" translate="yes" xml:space="preserve">
           <source>Purchase order line information for K3 Fashion</source>
-          <target state="translated">Informações da linha de pedidos de compra para K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">Informações da linha de pedidos de compra para K3 Fashion</target>
         </trans-unit>
         <trans-unit id="@KRF1274" translate="yes" xml:space="preserve">
           <source>The KRFPuchLineExtended table contains purchase order line information specific to K3 Fashion.</source>
@@ -5101,7 +5101,7 @@
         </trans-unit>
         <trans-unit id="@KRF1275" translate="yes" xml:space="preserve">
           <source>Request for quotation case line information for K3 Fashion</source>
-          <target state="translated">Solicitação de informações da linha de caso de cotação para K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">Solicitação de informações da linha de caso de cotação para K3 Fashion</target>
         </trans-unit>
         <trans-unit id="@KRF1276" translate="yes" xml:space="preserve">
           <source>The KRFPurchRFQCaseLineExtended table contains requests for quote case line information for K3 Fashion.</source>
@@ -5429,7 +5429,7 @@
         </trans-unit>
         <trans-unit id="@KRF1357" translate="yes" xml:space="preserve">
           <source>Sales order confirmations for K3 Fashion</source>
-          <target state="translated">Confirmações de pedidos de vendas para K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">Confirmações de pedidos de vendas para K3 Fashion</target>
         </trans-unit>
         <trans-unit id="@KRF1358" translate="yes" xml:space="preserve">
           <source>The KRFCustConfirmJourExtended table contains the sales confirmation header information specific to K3 Fashion.</source>
@@ -5437,7 +5437,7 @@
         </trans-unit>
         <trans-unit id="@KRF1359" translate="yes" xml:space="preserve">
           <source>Sales order confirmation lines for K3 Fashion</source>
-          <target state="translated">Linhas de confirmação de pedidos de vendas para K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">Linhas de confirmação de pedidos de vendas para K3 Fashion</target>
         </trans-unit>
         <trans-unit id="@KRF1360" translate="yes" xml:space="preserve">
           <source>The KRFCustConfirmTransExtended table contains the sales confirmation lines information specific to K3 Fashion.</source>
@@ -5493,7 +5493,7 @@
         </trans-unit>
         <trans-unit id="@KRF1373" translate="yes" xml:space="preserve">
           <source>The KRFSalesParameters table contains values for various sales settings for K3 Fashion.</source>
-          <target state="translated">A tabela KRFSalesParameters contém valores para várias configurações de vendas para K3 Fashion.</target>
+          <target state="final" state-qualifier="id-match">A tabela KRFSalesParameters contém valores para várias configurações de vendas para K3 Fashion.</target>
         </trans-unit>
         <trans-unit id="@KRF1374" translate="yes" xml:space="preserve">
           <source>%1 '%2' does not meet the required margin. Planned '%3%', calculated '%4%'.</source>
@@ -5577,7 +5577,7 @@
         </trans-unit>
         <trans-unit id="@KRF1394" translate="yes" xml:space="preserve">
           <source>Purchase order confirmations for K3 Fashion</source>
-          <target state="translated">Confirmações de pedidos de compra para K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">Confirmações de pedidos de compra para K3 Fashion</target>
         </trans-unit>
         <trans-unit id="@KRF1395" translate="yes" xml:space="preserve">
           <source>The KRFVendPurchOrderJourExtended table contains the purchase confirmation header information specific to K3 Fashion.</source>
@@ -5893,7 +5893,7 @@
         </trans-unit>
         <trans-unit id="@KRF1473" translate="yes" xml:space="preserve">
           <source>The KRFChannelGroup table contains information about channel groups for K3 Fashion.</source>
-          <target state="translated">A tabela KRFChannelGroup contém informações sobre grupos de canais para K3 Fashion.</target>
+          <target state="final" state-qualifier="id-match">A tabela KRFChannelGroup contém informações sobre grupos de canais para K3 Fashion.</target>
         </trans-unit>
         <trans-unit id="@KRF1474" translate="yes" xml:space="preserve">
           <source>The KPMProductInstructionTable table contains information about product instructions for K3 Fashion.</source>
@@ -7833,7 +7833,7 @@
         </trans-unit>
         <trans-unit id="@KRF1958" translate="yes" xml:space="preserve">
           <source>Function that generates K3 Fashion customer extension</source>
-          <target state="translated">Função que gera extensão de cliente K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">Função que gera extensão de cliente K3 Fashion</target>
         </trans-unit>
         <trans-unit id="@KRF1959" translate="yes" xml:space="preserve">
           <source>Function that generates K3 Fashion purchase order line extension</source>
@@ -8593,7 +8593,7 @@
         </trans-unit>
         <trans-unit id="@KRF2148" translate="yes" xml:space="preserve">
           <source>Purchase order line information history for K3 Fashion</source>
-          <target state="translated">Histórico de informações da linha de pedidos de compra para K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">Histórico de informações da linha de pedidos de compra para K3 Fashion</target>
         </trans-unit>
         <trans-unit id="@KRF2149" translate="yes" xml:space="preserve">
           <source>The KRFPurchLineHistoryExtended table contains K3 Fashion information of each of the approved and confirmed purchase order lines.</source>
