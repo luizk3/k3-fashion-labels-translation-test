@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="KRF.en-US.label.txt" tool-id="ERPLoc" product-name="n/a" product-version="n/a" build-num="n/a" request-id="50509" region="dflt">
+  <file datatype="xml" source-language="en-US" target-language="pt-BR" original="KRF.en-US.label.txt" tool-id="ERPLoc" product-name="n/a" product-version="n/a" build-num="n/a" request-id="50524" region="dflt">
     <header>
       <tool tool-id="ERPLoc" tool-name="ERPLoc" tool-version="1.0.173.547" tool-company="Microsoft CoreXT" />
     </header>
@@ -3233,11 +3233,11 @@
         </trans-unit>
         <trans-unit id="@KRF808" translate="yes" xml:space="preserve">
           <source>Maintain K3 Fashion Data Upgrade Checklist</source>
-          <target state="translated" state-qualifier="id-match">Manter a lista de verificação de atualização de dados de K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">Manter a lista de verificação de atualização de dados de K3 Fashion</target>
         </trans-unit>
         <trans-unit id="@KRF809" translate="yes" xml:space="preserve">
           <source>View K3 Fashion Data Upgrade Checklist</source>
-          <target state="translated">Exibir lista de verificação de atualização de dados de K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">Exibir lista de verificação de atualização de dados de K3 Fashion</target>
         </trans-unit>
         <trans-unit id="@KRF810" translate="yes" xml:space="preserve">
           <source>Store '%1' has warehouse '%2' already assigned to store '%3' (%4).</source>
@@ -5149,11 +5149,11 @@
         </trans-unit>
         <trans-unit id="@KRF1287" translate="yes" xml:space="preserve">
           <source>Function that generates K3 Fashion invent fields</source>
-          <target state="translated">Função que gera campos de invenção da K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">Função que gera campos de invenção da K3 Fashion</target>
         </trans-unit>
         <trans-unit id="@KRF1288" translate="yes" xml:space="preserve">
           <source>Function that generates K3 Fashion invent attributes</source>
-          <target state="translated">Função que gera atributos de invenção da K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">Função que gera atributos de invenção da K3 Fashion</target>
         </trans-unit>
         <trans-unit id="@KRF1289" translate="yes" xml:space="preserve">
           <source>Recommended</source>
@@ -6089,7 +6089,7 @@
         </trans-unit>
         <trans-unit id="@KRF1522" translate="yes" xml:space="preserve">
           <source>The KPMPhaseTranslation table contains translations of PDM phase in different language for K3 Fashion.</source>
-          <target state="translated">A tabela KPMPhaseTranslation contém traduções da fase PDM em diferentes idiomas para K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">A tabela KPMPhaseTranslation contém traduções da fase PDM em diferentes idiomas para K3 Fashion</target>
         </trans-unit>
         <trans-unit id="@KRF1523" translate="yes" xml:space="preserve">
           <source>The KPMPLMActivityTable table contains information about PLM activities.</source>
@@ -8597,7 +8597,7 @@
         </trans-unit>
         <trans-unit id="@KRF2149" translate="yes" xml:space="preserve">
           <source>The KRFPurchLineHistoryExtended table contains K3 Fashion information of each of the approved and confirmed purchase order lines.</source>
-          <target state="translated">A tabela KRFPurchLineHistoryExtended contém informações de K3 Fashion de cada uma das linhas de pedidos de compra aprovadas e confirmadas.</target>
+          <target state="final" state-qualifier="id-match">A tabela KRFPurchLineHistoryExtended contém informações de K3 Fashion de cada uma das linhas de pedidos de compra aprovadas e confirmadas.</target>
         </trans-unit>
         <trans-unit id="@KRF2150" translate="yes" xml:space="preserve">
           <source>Customer packing slip line information for K3 Fashion</source>
@@ -20669,23 +20669,23 @@
         </trans-unit>
         <trans-unit id="DisableReportFashionDesign" translate="yes" xml:space="preserve">
           <source>Disable K3 Fashion design</source>
-          <target state="translated">Desativar o design de K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">Desativar o design de K3 Fashion</target>
         </trans-unit>
         <trans-unit id="DisableReportFashionDesignSalesPackingSlip" translate="yes" xml:space="preserve">
           <source>Disable K3 Fashion design for sales packing slip report.</source>
-          <target state="translated">Desativar o design de K3 Fashion para o relatório de deslizamento de vendas.</target>
+          <target state="final" state-qualifier="id-match">Desativar o design de K3 Fashion para o relatório de deslizamento de vendas.</target>
         </trans-unit>
         <trans-unit id="DisableReportFashionDesignSalesConfirmation" translate="yes" xml:space="preserve">
           <source>Disable K3 Fashion design for sales comfirmation report.</source>
-          <target state="translated">Desativar o design de K3 Fashion para relatório de comfirmação de vendas.</target>
+          <target state="final" state-qualifier="id-match">Desativar o design de K3 Fashion para relatório de comfirmação de vendas.</target>
         </trans-unit>
         <trans-unit id="DisableReportFashionDesignSalesInvoice" translate="yes" xml:space="preserve">
           <source>Disable K3 Fashion design for sales invoice report.</source>
-          <target state="translated">Desativar o design de K3 Fashion para relatório de fatura de vendas.</target>
+          <target state="final" state-qualifier="id-match">Desativar o design de K3 Fashion para relatório de fatura de vendas.</target>
         </trans-unit>
         <trans-unit id="DisableReportFashionDesignPurchaseOrder" translate="yes" xml:space="preserve">
           <source>Disable K3 Fashion design for purchase order report.</source>
-          <target state="translated">Desabilite o design de K3 Fashion para relatório de pedido de compra.</target>
+          <target state="final" state-qualifier="id-match">Desabilite o design de K3 Fashion para relatório de pedido de compra.</target>
         </trans-unit>
         <trans-unit id="ReportFashionSystemDesignMismatchWarning" translate="yes" xml:space="preserve">
           <source>Copy/Original preview is disabled as report design '%1' does not match the system design '%2'. When not using K3 Fashion design, disable it in form setup, reopen the print management form and try again.</source>
@@ -20697,7 +20697,7 @@
         </trans-unit>
         <trans-unit id="SalesCubeDashboard" translate="yes" xml:space="preserve">
           <source>K3 Fashion Sales Dashboard</source>
-          <target state="translated">Painel de Vendas de K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">Painel de Vendas de K3 Fashion</target>
         </trans-unit>
         <trans-unit id="IdFieldCannotContainCharacterError" translate="yes" xml:space="preserve">
           <source>The Id field cannot contain the '%1' character.</source>
@@ -23597,7 +23597,7 @@
         </trans-unit>
         <trans-unit id="DisableK3FashionDesignForSalesPickingListReport" translate="yes" xml:space="preserve">
           <source>Disable K3 Fashion design for sales picking list report</source>
-          <target state="translated">Desativar o design de K3 Fashion para o relatório da lista de escolha de vendas</target>
+          <target state="final" state-qualifier="id-match">Desativar o design de K3 Fashion para o relatório da lista de escolha de vendas</target>
         </trans-unit>
         <trans-unit id="PrintProductInstructionsOnTheSalesPickingListReport" translate="yes" xml:space="preserve">
           <source>Print product instructions on the sales picking list report</source>
@@ -24985,7 +24985,7 @@
         </trans-unit>
         <trans-unit id="ProductsCubeDashboard" translate="yes" xml:space="preserve">
           <source>K3 Fashion Products Dashboard</source>
-          <target state="translated">Painel de Produtos de K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">Painel de Produtos de K3 Fashion</target>
         </trans-unit>
         <trans-unit id="PeriodicSalesCancJournal" translate="yes" xml:space="preserve">
           <source>Periodic sales cancellation journal</source>
@@ -26865,7 +26865,7 @@
         </trans-unit>
         <trans-unit id="PurchaseDashboard" translate="yes" xml:space="preserve">
           <source>K3 Fashion Purchase Dashboard</source>
-          <target state="translated">Painel de compra de K3 Fashion</target>
+          <target state="final" state-qualifier="id-match">Painel de compra de K3 Fashion</target>
         </trans-unit>
         <trans-unit id="RecommendedRetailPricePerCurrencySim" translate="yes" xml:space="preserve">
           <source>View and create price per currency/region to a pending price.</source>
@@ -28073,7 +28073,7 @@
         </trans-unit>
         <trans-unit id="VendorPortalProductForReviewInventTableEntity" translate="yes" xml:space="preserve">
           <source>K3 Fashion - Products for review base data</source>
-          <target state="translated" state-qualifier="id-match">K3 Fashion - Produtos para dados da base de revisão nao traduzir</target>
+          <target state="final" state-qualifier="id-match">K3 Fashion - Produtos para dados da base de revisão nao traduzir</target>
         </trans-unit>
         <trans-unit id="VendorPortalProductForReviewInventTableEntityMaintain" translate="yes" xml:space="preserve">
           <source>Maintain products for review base data</source>
