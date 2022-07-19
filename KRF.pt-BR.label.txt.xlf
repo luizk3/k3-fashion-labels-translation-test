@@ -28113,7 +28113,7 @@
         </trans-unit>
         <trans-unit id="KBPCalendarYearEntityDesc" translate="yes" xml:space="preserve">
           <source>Calendar year</source>
-          <target state="needs-review-translation" state-qualifier="x-microsoft-exact-match">Ano civil</target>
+          <target state="translated">Ano civil Luiz</target>
         </trans-unit>
         <trans-unit id="KBPCalendarMonthEntityId" translate="yes" xml:space="preserve">
           <source>CalendarMonth</source>
