@@ -28125,7 +28125,7 @@
         </trans-unit>
         <trans-unit id="KRFLabelDoVinao" translate="yes" xml:space="preserve">
           <source>Vinão's label</source>
-          <target state="needs-review-translation" state-qualifier="x-microsoft-exact-match">Label do Vinão</target>
+          <target state="translated">Label do Vinão changed</target>
         </trans-unit>
       </group>
     </body>
