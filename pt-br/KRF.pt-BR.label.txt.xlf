@@ -28093,7 +28093,7 @@
         </trans-unit>
         <trans-unit id="ViewOnly" translate="yes" xml:space="preserve">
           <source>View only</source>
-          <target state="needs-review-translation" state-qualifier="x-microsoft-exact-match">Exibir apenas</target>
+          <target state="translated">Exibir apenas Luiz (NL)</target>
         </trans-unit>
         <trans-unit id="KBPReleaseUpdateCalendarFieldsDescription" translate="yes" xml:space="preserve">
           <source>Update new calendar fields within the transaction tables.</source>
