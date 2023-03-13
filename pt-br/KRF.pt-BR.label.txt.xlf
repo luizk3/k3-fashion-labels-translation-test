@@ -28117,7 +28117,7 @@
         </trans-unit>
         <trans-unit id="KBPCalendarMonthEntityId" translate="yes" xml:space="preserve">
           <source>CalendarMonth</source>
-          <target state="needs-review-translation" state-qualifier="x-mt-cache">CalendárioMonth</target>
+          <target state="translated">Mês do calendário Luiz (gmail)</target>
         </trans-unit>
         <trans-unit id="KBPCalendarMonthEntityDesc" translate="yes" xml:space="preserve">
           <source>Calendar month</source>
