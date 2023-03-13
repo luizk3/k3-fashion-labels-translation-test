@@ -28109,7 +28109,7 @@
         </trans-unit>
         <trans-unit id="KBPCalendarYearEntityId" translate="yes" xml:space="preserve">
           <source>CalendarYear</source>
-          <target state="needs-review-translation" state-qualifier="x-mt-cache">Calendário</target>
+          <target state="translated">Calendário Luiz (NL)</target>
         </trans-unit>
         <trans-unit id="KBPCalendarYearEntityDesc" translate="yes" xml:space="preserve">
           <source>Calendar year</source>
@@ -28121,7 +28121,7 @@
         </trans-unit>
         <trans-unit id="KBPCalendarMonthEntityDesc" translate="yes" xml:space="preserve">
           <source>Calendar month</source>
-          <target state="needs-review-translation" state-qualifier="x-microsoft-exact-match">Mês do calendário</target>
+          <target state="translated">Mês do calendário Luiz NL</target>
         </trans-unit>
         <trans-unit id="KRFLabelDoVinao" translate="yes" xml:space="preserve">
           <source>Vinão's label</source>
