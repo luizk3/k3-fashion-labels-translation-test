@@ -28089,7 +28089,7 @@
         </trans-unit>
         <trans-unit id="VendorPortalProductsForReviewView" translate="yes" xml:space="preserve">
           <source>View vendor portal products for review</source>
-          <target state="needs-review-translation" state-qualifier="x-mt-cache">Exibir produtos do portal do fornecedor para revisão</target>
+          <target state="translated">Exibir produtos do portal do fornecedor para revisão Luiz (gmail)</target>
         </trans-unit>
         <trans-unit id="ViewOnly" translate="yes" xml:space="preserve">
           <source>View only</source>
