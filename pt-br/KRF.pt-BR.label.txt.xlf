@@ -28105,7 +28105,7 @@
         </trans-unit>
         <trans-unit id="KBPBusinessProcessCalendarDatesValidationWarning" translate="yes" xml:space="preserve">
           <source>When Business planning is enabled, the start and end dates need to be '01/Jan' and '31/Dec'.</source>
-          <target state="needs-review-translation" state-qualifier="x-mt-cache">Quando o planejamento de negócios é ativado, as datas de início e término precisam ser '01/Jan' e '31/Dez'.</target>
+          <target state="translated">Quando o planejamento de negócios é ativado, as datas de início e término precisam ser '01/Jan' e '31/Dez'. Luiz (gmail)</target>
         </trans-unit>
         <trans-unit id="KBPCalendarYearEntityId" translate="yes" xml:space="preserve">
           <source>CalendarYear</source>
@@ -28125,7 +28125,7 @@
         </trans-unit>
         <trans-unit id="KRFLabelDoVinao" translate="yes" xml:space="preserve">
           <source>Vinão's label</source>
-          <target state="translated">Label do Vinão</target>
+          <target state="translated">Label do Vinão Luiz (NL)</target>
         </trans-unit>
       </group>
     </body>
