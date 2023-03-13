@@ -28121,7 +28121,7 @@
         </trans-unit>
         <trans-unit id="KBPCalendarMonthEntityDesc" translate="yes" xml:space="preserve">
           <source>Calendar month</source>
-          <target state="translated">Mês do calendário Luiz NL</target>
+          <target state="translated">Mês do calendário</target>
         </trans-unit>
         <trans-unit id="KRFLabelDoVinao" translate="yes" xml:space="preserve">
           <source>Vinão's label</source>
